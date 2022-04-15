@@ -1,5 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Image, Dimensions } from 'react-native';
+import { Text, View, Image, Dimensions } from 'react-native';
 import { Grid, Col, Row } from 'react-native-easy-grid';
 import { Magnetometer } from 'expo-sensors';
 import React, { useState, useEffect } from 'react';
