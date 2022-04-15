@@ -20,5 +20,5 @@ Cara install repositori ini :
 
 untuk menginstal dependency yang ada di repositori ini.
 
-File APK tersedia di bagian terdepan repositori.
+Dikarenakan ukuran APK (60 MB) yang melebihi batas yang diberikan github (25 MB), maka APK ditaruh di Drive ITERA yang bisa diakses di [link ini.](https://drive.google.com/drive/folders/1utyNF0ynV1_LQhFiOyNZIKWy1Bz4kJip?usp=sharing "LINK APK DISINI")
 
